@@ -1,2 +1,2 @@
 # Python
-Python Repository for all kind of Data cleansing and reporting
+Python Repository for all kind of Data cleansing ,Analytics &  Reporting 
